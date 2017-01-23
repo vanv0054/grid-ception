@@ -16,3 +16,11 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+.img-flex {
+  width: 100%;
+}
